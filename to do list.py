@@ -38,7 +38,12 @@ while True:
                todos[number]=new_todo + "\n"
 
                with open("todos.txt", "w") as file:
-                    todos = file.writelines()
+                    todos = file.writelines(todos)
+           except ValueError:
+               print("your command is not valid")
+               continue
+
+
 
        elif user_action.startswith("complete"):
            todo_done=input("enter the todo completed:")
