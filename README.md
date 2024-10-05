@@ -18,8 +18,4 @@ The app runs in a loop, prompting the user to choose an action from the followin
 - `complete`: Mark a to-do item as completed.
 - `exit`: Exit the application.
 
-## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-todo-app-repo.git
