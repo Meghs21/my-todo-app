@@ -1,7 +1,7 @@
 # To-Do App with GUI
 
 ## Description
-This is a **Graphical User Interface (GUI)** based To-Do app written in Python. The app allows users to add, edit, view, and mark tasks as complete using a user-friendly interface. Tasks are saved to a file, allowing for easy retrieval even after the app is closed. The GUI is implemented using Python's `tkinter` (or whichever GUI library you're using).
+This is a **Graphical User Interface (GUI)** based To-Do app written in Python. The app allows users to add, edit, view, and mark tasks as complete using a user-friendly interface. Tasks are saved to a file, allowing for easy retrieval even after the app is closed. The GUI is implemented using Python's `PySimpleGUI` ).
 
 ## Features
 - **Add** a new task to your to-do list through the GUI.
